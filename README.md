@@ -82,13 +82,13 @@ LibraryManagement/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/ajaykumarsingh0018/Weak-3-Console-Based-Library-Management-System.git
 ```
 
 ### 2️⃣ Navigate to the project folder
 
 ```
-cd library-management-system
+cd Console-Based-Library-Management-System.
 ```
 
 ### 3️⃣ Compile the Java files
